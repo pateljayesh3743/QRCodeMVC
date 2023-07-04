@@ -1,0 +1,2 @@
+﻿
+How to generate QRCode in ASP.NET Core MVC application?
